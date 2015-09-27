@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AnalyzeTXT.iml" filepath="$PROJECT_DIR$/.idea/AnalyzeTXT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DMS/.idea/DMS.iml" filepath="$PROJECT_DIR$/../DMS/.idea/DMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HTTP/.idea/HTTP.iml" filepath="$PROJECT_DIR$/../HTTP/.idea/HTTP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LMS/.idea/LMS.iml" filepath="$PROJECT_DIR$/../LMS/.idea/LMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PyQt/.idea/PyQt.iml" filepath="$PROJECT_DIR$/../PyQt/.idea/PyQt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Test/.idea/Test.iml" filepath="$PROJECT_DIR$/../Test/.idea/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Web/.idea/Web.iml" filepath="$PROJECT_DIR$/../Web/.idea/Web.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource>
+    <file>images/start.png</file>
+  </qresource>
+  <qresource prefix="你好"/>
+</RCC>

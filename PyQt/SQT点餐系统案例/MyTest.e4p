@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- eric project file for project MyTest -->
+<!-- Saved: 2015-05-25, 02:54:01 -->
+<!-- Copyright (C) 2015 ,  -->
+<Project version="5.1">
+  <Language>en_US</Language>
+  <Hash>1162b397e1d340ff6a28aaca05e91923b8e6c39d</Hash>
+  <ProgLanguage mixed="0">Python3</ProgLanguage>
+  <ProjectType>Qt4</ProjectType>
+  <Description></Description>
+  <Version>0.1</Version>
+  <Author></Author>
+  <Email></Email>
+  <Eol index="-1"/>
+  <Sources>
+    <Source>__init__.py</Source>
+    <Source>Main.py</Source>
+    <Source>Ui_LoginDialog.py</Source>
+    <Source>Ui_CoffeeMainWindow.py</Source>
+    <Source>Ui_SysFrame.py</Source>
+    <Source>Ui_CheckOutDialog.py</Source>
+    <Source>Ui_OpenDialog.py</Source>
+    <Source>Ui_AddOrDelete.py</Source>
+    <Source>Ui_Query.py</Source>
+    <Source>Ui_Test.py</Source>
+  </Sources>
+  <Forms>
+    <Form>Test.ui</Form>
+  </Forms>
+  <Translations/>
+  <Resources/>
+  <Interfaces/>
+  <Others/>
+  <MainScript>Main.py</MainScript>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES"/>
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.ui" type="FORMS"/>
+  </FiletypeAssociations>
+  <Packagers>
+    <PackagersParams>
+      <dict>
+        <key>
+          <string>CXFREEZE</string>
+        </key>
+        <value>
+          <dict>
+            <key>
+              <string>applicationIcon</string>
+            </key>
+            <value>
+              <string>C:\PythonAll\PythonPro\PythonTest\Cup coffee.ico</string>
+            </value>
+            <key>
+              <string>baseName</string>
+            </key>
+            <value>
+              <string>Win32GUI</string>
+            </value>
+            <key>
+              <string>initScript</string>
+            </key>
+            <value>
+              <string></string>
+            </value>
+            <key>
+              <string>script</string>
+            </key>
+            <value>
+              <string>C:\PythonAll\Python34\Scripts\cxfreeze.bat</string>
+            </value>
+            <key>
+              <string>targetDirectory</string>
+            </key>
+            <value>
+              <string>C:\PythonAll\CoffeManage</string>
+            </value>
+            <key>
+              <string>targetName</string>
+            </key>
+            <value>
+              <string>Coffee.exe</string>
+            </value>
+          </dict>
+        </value>
+      </dict>
+    </PackagersParams>
+  </Packagers>
+</Project>

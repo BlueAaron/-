@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="start_speak">
+    <file>speak.jpg</file>
+  </qresource>
+  <qresource prefix="background">
+    <file>tool_backgd.jpg</file>
+    <file>background.jpg</file>
+  </qresource>
+  <qresource prefix="tool_about">
+    <file>datang.png</file>
+    <file>tool_about.jpg</file>
+  </qresource>
+  <qresource prefix="tool_receive">
+    <file>longtaizi.png</file>
+    <file>tool_receive.jpg</file>
+  </qresource>
+  <qresource prefix="tool_anlei">
+    <file>xuancaie.png</file>
+    <file>tool_anlei.jpg</file>
+  </qresource>
+  <qresource prefix="tool_speak">
+    <file>humeiyao.png</file>
+    <file>tool_speak.jpg</file>
+  </qresource>
+</RCC>

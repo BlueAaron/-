@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acb80943-2d9a-4e53-a092-b4eafbd0c220" name="Default" comment="" />
+    <ignored path="AnalyzeTXT.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/analyze.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1436545437930" ignored="false" />
+    <file path="/test.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1439702351119" ignored="false" />
+    <file path="/test.html" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1436547333920" ignored="false" />
+    <file path="/myPyQt1.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437230068203" ignored="false" />
+    <file path="/myqt1.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437278699223" ignored="false" />
+    <file path="/myqt2.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437307032487" ignored="false" />
+    <file path="/myPyQt18.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437318875126" ignored="false" />
+    <file path="/myPyQt21.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437397747384" ignored="false" />
+    <file path="/test1.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437399106566" ignored="false" />
+    <file path="/test2.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437401330580" ignored="false" />
+    <file path="/test3.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437401388371" ignored="false" />
+    <file path="/test4.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437401412775" ignored="false" />
+    <file path="/test5.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437401425927" ignored="false" />
+    <file path="/test6.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437401635083" ignored="false" />
+    <file path="/test7.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437492359168" ignored="false" />
+    <file path="/test8.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437493273105" ignored="false" />
+    <file path="/test9.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437493457639" ignored="false" />
+    <file path="/test10.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437493445417" ignored="false" />
+    <file path="/test11.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437656680122" ignored="false" />
+    <file path="/test12.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437656721669" ignored="false" />
+    <file path="/test13.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437658565983" ignored="false" />
+    <file path="/test14.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437659217482" ignored="false" />
+    <file path="/test15.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437660356507" ignored="false" />
+    <file path="/test16.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437660961727" ignored="false" />
+    <file path="/test17.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437661151044" ignored="false" />
+    <file path="/test18.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437661566956" ignored="false" />
+    <file path="/QColorDialog.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437662110428" ignored="false" />
+    <file path="/QFontDialog.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437662678224" ignored="false" />
+    <file path="/QFileDialog.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437662827193" ignored="false" />
+    <file path="/滑块.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437663670791" ignored="false" />
+    <file path="/图片阴影效果.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1437665614988" ignored="false" />
+    <file path="/tt.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1438007499799" ignored="false" />
+    <file path="/CMI.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1438185007954" ignored="false" />
+    <file path="/cmiMain.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1438090557980" ignored="false" />
+    <file path="/cmipost-test.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1438179223880" ignored="false" />
+    <file path="/CMIPost.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1438185307374" ignored="false" />
+    <file path="/CMIConfig.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1438184239714" ignored="false" />
+    <file path="/CMINormalInject.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1438185255148" ignored="false" />
+    <file path="/Ui_LoginDialog.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1438446973935" ignored="false" />
+    <file path="$PROJECT_DIR$/../PyQt/SQT正则校验工具案例/RegexTester/regexTesterUi.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1438448217400" ignored="false" />
+    <file path="/filelist.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1438451934551" ignored="false" />
+    <file path="/LCMMain.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1439616771393" ignored="false" />
+    <file path="/title.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1439619557718" ignored="false" />
+    <file path="/bibao.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1439912998598" ignored="false" />
+    <file path="/auto_main.py" changelist="acb80943-2d9a-4e53-a092-b4eafbd0c220" time="1440910774234" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pyuic.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PyQt/练习/pyuic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="22" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auto_main.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../PyQt/练习/auto_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="26" selection-start="255" selection-end="255" vertical-scroll-proportion="0.50666666">
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_widget.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PyQt/仿360界面案例/src/main_widget.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="61" column="24" selection-start="2058" selection-end="2058" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frmmain.pyw" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PyQt/SQTqss实现的360界面/pyqt qss实现的360界面/frmmain.pyw">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="33" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auto_speak.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PyQt/练习/auto_speak.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="13" selection-start="661" selection-end="668" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1440945354062" expanded="true" signature="677:773" placeholder="..." />
+                <marker date="1440945354062" expanded="true" signature="706:773" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../HTTP/CMIDemo2/CMINormalInject.py" />
+        <option value="$PROJECT_DIR$/../HTTP/CMIDemo2/CMIPost.py" />
+        <option value="$PROJECT_DIR$/../PyQt/练习/练习2.py" />
+        <option value="$PROJECT_DIR$/../PyQt/Test/Ui_LoginDialog.py" />
+        <option value="$PROJECT_DIR$/../PyQt/练习/俄罗斯方块.py" />
+        <option value="$PROJECT_DIR$/../PyQt/练习/MP3播放器.py" />
+        <option value="$PROJECT_DIR$/../PyQt/SQTFTP上传工具/ftp源码/ftp/control/filelist.py" />
+        <option value="$PROJECT_DIR$/../PyQt/Qt控件/进度条.py" />
+        <option value="$PROJECT_DIR$/../PyQt/仿360界面案例/src/title_widget.py" />
+        <option value="$PROJECT_DIR$/../LMS/Demo1/LCMMain.py" />
+        <option value="$PROJECT_DIR$/../LMS/Demo1/title.py" />
+        <option value="$PROJECT_DIR$/../LMS/test/test.py" />
+        <option value="$PROJECT_DIR$/../LMS/test/bibao.py" />
+        <option value="$PROJECT_DIR$/../PyQt/SQTqss实现的360界面/pyqt qss实现的360界面/ui_frmmain.py" />
+        <option value="$PROJECT_DIR$/../PyQt/练习/pyuic.py" />
+        <option value="$PROJECT_DIR$/../PyQt/练习/auto_main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AnalyzeTXT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AnalyzeTXT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyQt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AnalyzeTXT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyQt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="练习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AnalyzeTXT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyQt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="仿360界面案例" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AnalyzeTXT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyQt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AnalyzeTXT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyQt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SQTqss实现的360界面" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pyqt qss实现的360界面" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AnalyzeTXT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyQt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DMS" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\PyQt\练习" />
+      <recent name="C:\Users\Administrator\PycharmProjects\PyQt\SQTqss实现的360界面" />
+      <recent name="C:\Users\Administrator\PycharmProjects\PyQt\images" />
+      <recent name="C:\Users\Administrator\PycharmProjects\PyQt" />
+      <recent name="C:\Users\Administrator\PycharmProjects\LMS\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\PyQt\Qt对话框" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.auto_main">
+    <configuration default="false" name="LCMMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../LMS/Demo1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="LMS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../LMS/Demo1/LCMMain.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pyuic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PyQt/练习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="PyQt" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PyQt/练习/pyuic.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Nosetests in Test" type="tests" factoryName="Nosetests" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PyQt/练习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="PyQt" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PyQt/练习/auto_main.py" />
+      <option name="CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="auto_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PyQt/练习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="PyQt" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PyQt/练习/auto_main.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main_widget" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PyQt/仿360界面案例/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="PyQt" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PyQt/仿360界面案例/src/main_widget.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <module name="PyQt" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <module name="PyQt" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <module name="PyQt" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../LMS/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="LMS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../LMS/test/test.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LCMMain" />
+      <item index="2" class="java.lang.String" itemvalue="Python.pyuic" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in Test" />
+      <item index="4" class="java.lang.String" itemvalue="Python.auto_main" />
+      <item index="5" class="java.lang.String" itemvalue="Python.main_widget" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.auto_main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pyuic" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main_widget" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in Test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.LCMMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acb80943-2d9a-4e53-a092-b4eafbd0c220" name="Default" comment="" />
+      <created>1436543703349</created>
+      <updated>1436543703349</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32820514" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.67972744" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2189394" sideWeight="0.6848382" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39693356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32820514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31516185" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270869" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/../PyQt/SQT正则校验工具案例/RegexTester/regexTester.py</url>
+          <line>8</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/../HTTP/CMIDemo2/CMI.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../PyQt/仿360界面案例/src/main_widget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="24" selection-start="2058" selection-end="2058" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyQt/SQTqss实现的360界面/pyqt qss实现的360界面/frmmain.pyw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="33" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyQt/练习/auto_speak.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="13" selection-start="661" selection-end="668" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1440945354062" expanded="true" signature="677:773" placeholder="..." />
+            <marker date="1440945354062" expanded="true" signature="706:773" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyQt/仿360界面案例/src/title_widget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="8" selection-start="998" selection-end="998" vertical-scroll-proportion="0.033928573" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LMS/test/bibao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LMS/test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="20" selection-start="1328" selection-end="1328" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LMS/Demo1/title.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="31" selection-start="3375" selection-end="3375" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LMS/Demo1/LCMMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="42" selection-start="1216" selection-end="1216" vertical-scroll-proportion="0.3892857" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyQt/Demo2/mytest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="4" selection-start="227" selection-end="227" vertical-scroll-proportion="-1.4693333" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyQt/Demo2/myqt2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyQt/Demo2/myqt1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="295" selection-end="295" vertical-scroll-proportion="0.608" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyQt/练习/auto_speak.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="13" selection-start="661" selection-end="668" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1440945354062" expanded="true" signature="677:773" placeholder="..." />
+            <marker date="1440945354062" expanded="true" signature="706:773" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyQt/仿360界面案例/src/main_widget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="24" selection-start="2058" selection-end="2058" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyQt/SQTqss实现的360界面/pyqt qss实现的360界面/frmmain.pyw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="33" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyQt/练习/pyuic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="22" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyQt/练习/auto_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="26" selection-start="255" selection-end="255" vertical-scroll-proportion="0.50666666">
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

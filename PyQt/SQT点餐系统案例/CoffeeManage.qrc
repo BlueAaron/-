@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="PushButton">
+    <file>查看状态-点击.jpg</file>
+    <file>查看状态-普通.jpg</file>
+    <file>查看状态-停留.jpg</file>
+    <file>结账-点击.jpg</file>
+    <file>结账-普通.jpg</file>
+    <file>结账-停留.jpg</file>
+    <file>添加或删除产品-点击.jpg</file>
+    <file>添加或删除产品-普通.jpg</file>
+    <file>添加或删除产品-停留.jpg</file>
+    <file>开台-停留.jpg</file>
+    <file>开台-点击.jpg</file>
+    <file>开台-普通.jpg</file>
+  </qresource>
+  <qresource prefix="Music">
+    <file>安妮的仙境.wav</file>
+  </qresource>
+  <qresource prefix="BroundBcak">
+    <file>头像.png</file>
+    <file>台号背景.jpg</file>
+    <file>登录背景图2.jpg</file>
+    <file>登录背景图1.jpg</file>
+    <file>背景.jpg</file>
+    <file>登录背景图.jpg</file>
+  </qresource>
+  <qresource prefix="Status">
+    <file>状态空闲.jpg</file>
+    <file>状态忙碌.jpg</file>
+  </qresource>
+</RCC>

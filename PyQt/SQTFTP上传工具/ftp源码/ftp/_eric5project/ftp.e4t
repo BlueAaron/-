@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-5.0.dtd">
+<!-- eric5 tasks file for project ftp -->
+<!-- Saved: 2012-12-16, 23:19:16 -->
+<Tasks version="5.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2012-12-14, 21:45:24</Created>
+    <Resource>
+      <Filename>servermanage.py</Filename>
+      <Linenumber>58</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2012-12-14, 21:45:24</Created>
+    <Resource>
+      <Filename>servermanage.py</Filename>
+      <Linenumber>66</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
